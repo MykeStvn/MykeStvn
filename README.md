@@ -15,8 +15,8 @@
 - :computer: I am a competitive programmer at `Python`, `PHP`, `Flutter`.
 - :student: I’m currently learning `Web Development` and `Business Inteligence`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://n9.cl/michaelllumiugsi).
+- :boom: You can visit [MY WEBSITE](https://cutt.ly).
 
 
 ## 🛠️ My Skills
