@@ -15,7 +15,7 @@
 - :computer: I am a competitive programmer at `Python`, `PHP`, `Flutter`.
 - :student: I’m currently learning `Web Development` and `Business Inteligence`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://n9.cl/michaelllumiugsi).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1PX9EnObz-vreVvwvc7ObW7v6w329N37e/view?usp=drive_link).
 - :boom: You can visit [MY WEBSITE](https://mykestvn.github.io/PortfolioMichael/).
 
 
